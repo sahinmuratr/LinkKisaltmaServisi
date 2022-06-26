@@ -1,0 +1,230 @@
+------------------------
+
+
+26.06.2022 14:24:00 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:02 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:02 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:02 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:02 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:02 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:03 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:04 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:04 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:04 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:04 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:04 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:05 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:05 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:05 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:05 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:06 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
+------------------------
+
+
+26.06.2022 14:24:06 Değer null olamaz.
+Parametre adı: url     konum: System.Web.HttpResponse.Redirect(String url, Boolean endResponse, Boolean permanent)
+   konum: System.Web.HttpResponseWrapper.Redirect(String url)
+   konum: WebApplication4.Controllers.DController.In(String I) C:\Users\ARIBILGI\Desktop\Linkk-saltmaservisi-master\WebApplication4\Controllers\DController.cs içinde: satır 26
+
+
+----------------------
